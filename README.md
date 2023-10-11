@@ -2,6 +2,10 @@
 
 **Link: <https://bit.ly/UWP-fonts>**
 
+## Download fonts
+
+Go to the [`fonts`](./fonts/) directory to download the fonts.
+
 ## Fonts included in this repo
 
 * Fonts for non-latin Languages
