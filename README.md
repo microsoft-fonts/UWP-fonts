@@ -31,6 +31,9 @@ Go to the [`fonts`](./fonts/) directory to download the fonts.
 	* Courier New
 	* Georgia
 	* Times New Roman
+* Variable fonts
+	* Bahnschrift
+	* Segoe UI Variable
 * Symbols and icons
 	* Segoe MDL2 Assets
 	* Segoe UI Emoji
